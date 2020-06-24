@@ -11,7 +11,7 @@ Click the Below Link for the Application.
 
 https://bkarmay.shinyapps.io/PricePredictorForDiamonds/
 
-Click the Below Link for the Rpubs presentation.
+Click the Below Link for the github presentation.
 
-http://rpubs.com/bkarmay/338599
+https://github.com/Vinaykumarv22799/Developing-data-product-week-4
 
